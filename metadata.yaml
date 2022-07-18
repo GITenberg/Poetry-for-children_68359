@@ -16,6 +16,9 @@ contributor:
     deathdate: 1940
     gutenberg_agent_id: '54740'
     url: http://www.gutenberg.org/2009/agents/54740
+covers:
+- cover_type: archival
+  image_path: 68359-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Lamb, Charles
@@ -32,6 +35,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/294
     wikipedia: https://en.wikipedia.org/wiki/Mary_Lamb
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68359#Poetry-for-children
 gutenberg_issued: '2022-06-21'
 identifiers:
   gutenberg: '68359'
